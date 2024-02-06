@@ -41,7 +41,7 @@ button{
     padding:10px 20px;
     border-radius:10px;
     border:none;
-    background-color:yellow;
+    background-color:whitesmoke;
     color:black;
     margin:20px;
     text-transform: uppercase;
@@ -71,6 +71,6 @@ button:hover{
 #age{
     color:white;
     font-size:50px;
-    margin:20px;
-    font-weight:bold;
+    margin:40px;
+    font-weight:bolder;
 }

@@ -15,7 +15,7 @@
     justify-content:center;
     flex-direction:column;
     background-color:darkslateblue;
-    box-shadow:8px 8px black;
+    box-shadow:8px 8px rgb(182, 133, 212);
     color:white;
     padding:5% 0%;
 }
@@ -58,8 +58,8 @@ button:hover{
     display:flex;
     align-items:center;
     justify-content:center;
-    width:620px;
-    height:480px;
+    width:640px;
+    height:500px;
     background-color:rgb(228, 91, 91);
     border-radius:30px;
     position:absolute;
